@@ -15,3 +15,4 @@ STEPS
 
 4. Run webpage by clicking on mozilla firfox or any other browser installed on your system.
 
+![Screenshot_2020-02-03 Sign In](https://user-images.githubusercontent.com/59982887/73696113-dd220d80-46db-11ea-929e-6dfcbc05c9ec.jpg)
